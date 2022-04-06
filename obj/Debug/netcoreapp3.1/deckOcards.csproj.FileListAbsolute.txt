@@ -1,0 +1,13 @@
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\bin\Debug\netcoreapp3.1\deckOcards.exe
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\bin\Debug\netcoreapp3.1\deckOcards.deps.json
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\bin\Debug\netcoreapp3.1\deckOcards.runtimeconfig.json
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\bin\Debug\netcoreapp3.1\deckOcards.runtimeconfig.dev.json
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\bin\Debug\netcoreapp3.1\deckOcards.dll
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\bin\Debug\netcoreapp3.1\deckOcards.pdb
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\obj\Debug\netcoreapp3.1\deckOcards.csprojAssemblyReference.cache
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\obj\Debug\netcoreapp3.1\deckOcards.AssemblyInfoInputs.cache
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\obj\Debug\netcoreapp3.1\deckOcards.AssemblyInfo.cs
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\obj\Debug\netcoreapp3.1\deckOcards.csproj.CoreCompileInputs.cache
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\obj\Debug\netcoreapp3.1\deckOcards.dll
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\obj\Debug\netcoreapp3.1\deckOcards.pdb
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\deckOcards\obj\Debug\netcoreapp3.1\deckOcards.genruntimeconfig.cache
